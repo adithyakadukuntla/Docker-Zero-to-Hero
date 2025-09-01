@@ -4,10 +4,10 @@
 
 DevOps is the process of improving the application delivery ensuring the 
 <br>
-o	Continuous automation, <br></br>
-o	Continuous monitoring,  
-o	Good quality of code and 
-o	Continuous Testing.
+o	Continuous automation, <br>
+o	Continuous monitoring,  <br>
+o	Good quality of code and <br>
+o	Continuous Testing. <br>
 
 ## What is Docker ? 
 Docker is an OS‑level virtualization (or containerization) platform, which allows applications to share the host OS kernel instead of running a separate guest OS like in traditional virtualization. This design makes Docker containers lightweight, fast, and portable, while keeping them isolated from one another.
