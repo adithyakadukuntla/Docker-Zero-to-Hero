@@ -3,7 +3,8 @@
 ## What is Devops ?
 
 DevOps is the process of improving the application delivery ensuring the 
-o	Continuous automation, 
+<br>
+o	Continuous automation, <br></br>
 o	Continuous monitoring,  
 o	Good quality of code and 
 o	Continuous Testing.
