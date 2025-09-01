@@ -1,8 +1,15 @@
 # Repo to learn Docker with examples. Contributions are most welcome.
 
-## If you found this repo useful, give it a STAR 🌠
+## What is Devops ?
 
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
+DevOps is the process of improving the application delivery ensuring the 
+o	Continuous automation, 
+o	Continuous monitoring,  
+o	Good quality of code and 
+o	Continuous Testing.
+
+## What is Docker ? 
+Docker is an OS‑level virtualization (or containerization) platform, which allows applications to share the host OS kernel instead of running a separate guest OS like in traditional virtualization. This design makes Docker containers lightweight, fast, and portable, while keeping them isolated from one another.
 
 
 ## What is a container ?
